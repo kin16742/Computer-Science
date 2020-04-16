@@ -8,7 +8,7 @@ last-in first-out
 
 ##### 주요 함수
 
-- push() : stack의 가장 바깥에 원소를 삽입
+- push(object o) : stack의 가장 바깥에 원소 o를 삽입
 - pop() : stack의 가장 바깥의 원소를 삭제
 - top() : stack의 가장 바깥 원소 반환
 - size() : stack 내 원소의 수 반환

@@ -4,7 +4,7 @@ first-in first-out
 
 ##### 주요 함수
 
-- enqueue() : queue의 가장 뒤에 원소를 삽입
+- enqueue(object o) : queue의 가장 뒤에 원소 o를 삽입
 - dequeue() : queue의 가장 앞의 원소를 삭제
 - front() : queue의 가장 앞의 원소 반환
 - size() : queue내 원소의 수 반환
