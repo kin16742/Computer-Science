@@ -1,8 +1,8 @@
 # Singly Linked List
 
-![](./img/singlyLinkedListNode.png)
-
 **node 구성**
+
+![](./img/singlyLinkedListNode.png)
 
 - elem : node가 가지고 있는 값
 - next : 연결된 node로의 link / 주소
