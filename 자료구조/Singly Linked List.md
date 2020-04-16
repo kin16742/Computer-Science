@@ -1,6 +1,4 @@
-# Linked Lists
-
-### Singly Linked List
+# Singly Linked List
 
 ![](./img/singlyLinkedListNode.png)
 
