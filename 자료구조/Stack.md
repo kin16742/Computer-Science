@@ -27,6 +27,6 @@ last-in first-out
 
 ##### Performance
 
-사용 공간 : O(n)
+- 사용 공간 : O(n)
 
-push(), pop(), top(), size(), empty() : O(1)
+- push(), pop(), top(), size(), empty() : O(1)
