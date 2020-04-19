@@ -20,14 +20,8 @@ key, value의 쌍으로 입력이 주어지며 key는 우선순위를 나타낸�
 
 **Priority Queue를 이용한 정렬**
 
-pq 구현법에 따라 실행 시간이 바뀐다.
-
 1. 각 원소를 pq에 삽입
 
 2. removeMin을 사용해 정렬된 순서대로 원소를 pq에서 제거
 
-##### Performance
-
-- 사용 공간 : O(n)
-
-- push(), pop(), top(), size(), empty() : O(1)
+pq는 구현 방법에 따라 수행 시간이 다르다.
