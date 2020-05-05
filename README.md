@@ -2,11 +2,11 @@
 ### Overview
 Computer Science에 관한 지식과 공부해야할 것들 등을 정리해놓은 Repository
 ### Contents
-- [API](./API) : API 관련 지식과 각종 API 정보
-- [Algorithm](./Algorithm)
+- [API](./API) : API 관련 공부, API 사용
+- [Algorithm](./Algorithm) : 알고리즘 이론
 - [Android](./Android) : Android 개발 지식, 개발 방법 등 이론
-- [Design Pattern](./Design%20Pattern) : Design Patterns
-- [Java](./Java) : Java 기초 및 개발 이슈
-- [Operating System](./Operating%20System) : OS 관련 지식
-- [개발 방법론](./개발%20방법론) 
-- [자료구조](./자료구조) 
+- [Design Pattern](./Design%20Pattern) : 디자인 패턴
+- [Java](./Java) : Java 기초, 개발 이슈
+- [Operating System](./Operating%20System) : OS 관련 공부
+- [개발 방법론](./개발%20방법론) : 개발 방법론
+- [자료구조](./자료구조) : 자료구조 공부
